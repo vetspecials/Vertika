@@ -1,7 +1,7 @@
 {
-  "name": "vercel-xhttp-relay",
+  "name": "core-logic-service",
   "version": "1.0.0",
-  "description": "Edge-runtime XHTTP relay for Xray/V2Ray on Vercel",
+  "description": "Internal microservice for data processing",
   "private": true,
   "license": "MIT"
 }
